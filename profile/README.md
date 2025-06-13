@@ -1,4 +1,4 @@
-Mimir
+## Mimir
 
 Legend says Odin kept Mimir's head for its eternal wisdom. Now, you can do the same with your entire digital archive.
 
